@@ -28,6 +28,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### AI Training Matrix Feature Scaler :
 * **Project Name:** `matrix_feature_scaler.py` : A high-performance NumPy data transformation utility that implements vector-based Min-Max normalization to scale raw machine learning datasets.
 * **プロジェクト名:** `matrix_feature_scaler.py` : 生の機械学習データセットをスケーリングするために、ベクトルベースの最小最大正規化（Min-Max Normalization）を実装する高性能NumPyデータ変換ユーティリティ。
+
+### NLP Japanese Particle Analyzer :
+* **Project Name:** `nlp_japanese_particle_analyzer.py` : A text tokenization preprocessor in Python designed to scan, parse, and evaluate grammatical particles within Japanese strings for NLP data preparation pipelines.
+* **プロジェクト名:** `nlp_japanese_particle_analyzer.py` : 自然言語処理（NLP）のデータ前処理用パイプライン向けに、日本語の文字列から文法的な助詞をスキャン、解析、評価するPythonベースのテキストトークン化前処理ツール。
 ---
 
 ##  Contact & Professional Profiles
