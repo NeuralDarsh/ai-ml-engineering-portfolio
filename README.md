@@ -32,6 +32,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### NLP Japanese Particle Analyzer :
 * **Project Name:** `nlp_japanese_particle_analyzer.py` : A text tokenization preprocessor in Python designed to scan, parse, and evaluate grammatical particles within Japanese strings for NLP data preparation pipelines.
 * **プロジェクト名:** `nlp_japanese_particle_analyzer.py` : 自然言語処理（NLP）のデータ前処理用パイプライン向けに、日本語の文字列から文法的な助詞をスキャン、解析、評価するPythonベースのテキストトークン化前処理ツール。
+
+  ### Software Deployment Risk Assessment Engine :
+* **Project Name:** `deployment_risk_engine.py` : An automated project management tool in Python that computes deployment risk profiles using algorithmic score weighting and safety threshold analysis.
+* **プロジェクト名:** `deployment_risk_engine.py` : アルゴリズムによるスコアの重み付けと安全性のしきい値分析を用いて、本番環境へのデプロイに伴うリスクプロファイルを計算するPythonベースの自動プロジェクト管理ツール。
 ---
 
 ##  Contact & Professional Profiles
