@@ -36,6 +36,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Software Deployment Risk Assessment Engine :
 * **Project Name:** `deployment_risk_engine.py` : An automated project management tool in Python that computes deployment risk profiles using algorithmic score weighting and safety threshold analysis.
 * **プロジェクト名:** `deployment_risk_engine.py` : アルゴリズムによるスコアの重み付けと安全性のしきい値分析を用いて、本番環境へのデプロイに伴うリスクプロファイルを計算するPythonベースの自動プロジェクト管理ツール。
+
+### AI Data Stream Signal Denoiser :
+* **Project Name:** `data_stream_denoiser.py` : A vector transformation utility in Python utilizing NumPy to apply a sliding-window moving average algorithm that filters high-frequency noise from AI data pipelines.
+* **プロジェクト名:** `data_stream_denoiser.py` : AIデータパイプラインから高周波ノイズを除去するために、スライディングウィンドウ移動平均アルゴリズムを適用するNumPyベースのPythonベクトル変換ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
