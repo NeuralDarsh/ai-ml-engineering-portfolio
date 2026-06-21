@@ -40,6 +40,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### AI Data Stream Signal Denoiser :
 * **Project Name:** `data_stream_denoiser.py` : A vector transformation utility in Python utilizing NumPy to apply a sliding-window moving average algorithm that filters high-frequency noise from AI data pipelines.
 * **プロジェクト名:** `data_stream_denoiser.py` : AIデータパイプラインから高周波ノイズを除去するために、スライディングウィンドウ移動平均アルゴリズムを適用するNumPyベースのPythonベクトル変換ユーティリティ。
+
+### IoT Network Packet Congestion Estimator : 
+* **Project Name:** `iot_congestion_estimator.py` : A network performance simulation tool in Python that analyzes data ingestion frequencies to calculate system gateway buffer congestion index ratios.
+* **プロジェクト名:** `iot_congestion_estimator.py` : データの取り込み頻度を分析し、システムゲートウェイのバッファ混雑指数比率を計算する、Pythonベースのネットワークパフォーマンスシミュレーションツール。
 ---
 
 ##  Contact & Professional Profiles
