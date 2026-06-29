@@ -44,6 +44,14 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### IoT Network Packet Congestion Estimator : 
 * **Project Name:** `iot_congestion_estimator.py` : A network performance simulation tool in Python that analyzes data ingestion frequencies to calculate system gateway buffer congestion index ratios.
 * **プロジェクト名:** `iot_congestion_estimator.py` : データの取り込み頻度を分析し、システムゲートウェイのバッファ混雑指数比率を計算する、Pythonベースのネットワークパフォーマンスシミュレーションツール。
+
+### AI Document Term Frequency Calculator :
+* **Project Name:** `document_tf_calculator.py` : A text analytics tokenization tool in Python that processes raw string data to calculate normalized mathematical Term Frequency (TF) indices for NLP search systems.
+* **プロジェクト名:** `document_tf_calculator.py` : 自然言語処理（NLP）検索システム向けに、生の文字列データを処理して正規化された単語出現頻度（TF）指数を計算する、Pythonベース의テキスト分析トークン化ツール。
+
+### AI Dataset Train-Test Split Generator :
+* **Project Name:** `dataset_split_generator.py` : A data engineering matrix utility in Python utilizing NumPy to shuffle and slice dataset sample arrays into deterministic training and testing matrices.
+* **プロジェクト名:** `dataset_split_generator.py` : データセットのサンプル配列をシャッフルし、決定論的な学習用マトリクスとテスト用マトリクスに分割する、NumPyベースのPythonデータエンジニアリング用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
