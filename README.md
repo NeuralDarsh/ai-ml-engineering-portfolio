@@ -19,7 +19,7 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ---
 
 
-##  Detailed Project Summaries
+##  Daily Codes :
 
 ### Dual-Language System Configuration Parser :
 * **Project Name:** `config_localizer.py` : A modular Python parsing utility designed to simulate dynamic initialization of production environment configurations based on localized region profiles (EN/JA). Implements safe dictionary lookups with fallback guardrails.
@@ -52,6 +52,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### AI Dataset Train-Test Split Generator :
 * **Project Name:** `dataset_split_generator.py` : A data engineering matrix utility in Python utilizing NumPy to shuffle and slice dataset sample arrays into deterministic training and testing matrices.
 * **プロジェクト名:** `dataset_split_generator.py` : データセットのサンプル配列をシャッフルし、決定論的な学習用マトリクスとテスト用マトリクスに分割する、NumPyベースのPythonデータエンジニアリング用ユーティリティ。
+
+### IoT Sensor Outlier Rejector :
+* **Project Name:** `sensor_outlier_rejector.py` : A data sanitization utility in Python utilizing NumPy to apply a statistical Z-score filter that identifies and strips anomalous spike packets from hardware sensor data streams.
+* **プロジェクト名:** `sensor_outlier_rejector.py` : ハードウェアセンサーのデータストリームから異常なスパイクパケットを識別して除去するために、統計的Zスコアフィルタを適用するNumPyベースのPythonデータクレンジングユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
