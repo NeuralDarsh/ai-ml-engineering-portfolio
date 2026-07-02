@@ -56,6 +56,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### IoT Sensor Outlier Rejector :
 * **Project Name:** `sensor_outlier_rejector.py` : A data sanitization utility in Python utilizing NumPy to apply a statistical Z-score filter that identifies and strips anomalous spike packets from hardware sensor data streams.
 * **プロジェクト名:** `sensor_outlier_rejector.py` : ハードウェアセンサーのデータストリームから異常なスパイクパケットを識別して除去するために、統計的Zスコアフィルタを適用するNumPyベースのPythonデータクレンジングユーティリティ。
+
+### AI Vector Coordinate Distance Calculator :
+* **Project Name:** `vector_distance_calculator.py` : A geometric math pipeline utility in Python utilizing NumPy to calculate absolute Euclidean distance indices between multi-dimensional feature vectors for ML similarity models.
+* **プロジェクト名:** `vector_distance_calculator.py` : 機械学習の類似性モデル向けに、多次元特徴ベクトルの絶対的なユークリッド距離指数を計算する、NumPyベースのPython幾何学計算用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
