@@ -60,6 +60,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### AI Vector Coordinate Distance Calculator :
 * **Project Name:** `vector_distance_calculator.py` : A geometric math pipeline utility in Python utilizing NumPy to calculate absolute Euclidean distance indices between multi-dimensional feature vectors for ML similarity models.
 * **プロジェクト名:** `vector_distance_calculator.py` : 機械学習の類似性モデル向けに、多次元特徴ベクトルの絶対的なユークリッド距離指数を計算する、NumPyベースのPython幾何学計算用ユーティリティ。
+
+### IoT Gateway Network Throughput Checker :
+* **Project Name:** `iot_throughput_checker.py` : A network capacity evaluation tool in Python that processes raw byte stream metrics to calculate throughput speeds and bandwidth saturation rates for industrial IoT gateways.
+* **プロジェクト名:** `iot_throughput_checker.py` : 産業用IoTゲートウェイ向けに、生のバイトストリームメトリクスを処理してスループット速度と帯域幅混雑率を計算する、Pythonベースのネットワーク容量評価ツール。
 ---
 
 ##  Contact & Professional Profiles
