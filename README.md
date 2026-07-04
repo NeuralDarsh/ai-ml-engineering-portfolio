@@ -64,6 +64,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### IoT Gateway Network Throughput Checker :
 * **Project Name:** `iot_throughput_checker.py` : A network capacity evaluation tool in Python that processes raw byte stream metrics to calculate throughput speeds and bandwidth saturation rates for industrial IoT gateways.
 * **プロジェクト名:** `iot_throughput_checker.py` : 産業用IoTゲートウェイ向けに、生のバイトストリームメトリクスを処理してスループット速度と帯域幅混雑率を計算する、Pythonベースのネットワーク容量評価ツール。
+
+### AI Matrix Transposition Optimization Pipeline :
+* **Project Name:** `matrix_transpose_optimizer.py` : A Linear Algebra dimensional manipulation utility in Python using NumPy to compute structural matrix transpositions for deep learning pipeline alignments.
+* **プロジェクト名:** `matrix_transpose_optimizer.py` : ディープラーニングのパイプラインアライメント向けに、構造的な行列転置（Matrix Transposition）を計算する、NumPyベースのPython線形代数次元操作ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
