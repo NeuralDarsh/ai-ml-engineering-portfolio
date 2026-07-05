@@ -68,6 +68,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### AI Matrix Transposition Optimization Pipeline :
 * **Project Name:** `matrix_transpose_optimizer.py` : A Linear Algebra dimensional manipulation utility in Python using NumPy to compute structural matrix transpositions for deep learning pipeline alignments.
 * **プロジェクト名:** `matrix_transpose_optimizer.py` : ディープラーニングのパイプラインアライメント向けに、構造的な行列転置（Matrix Transposition）を計算する、NumPyベースのPython線形代数次元操作ユーティリティ。
+
+### AI System Linear Equation Solver :
+* **Project Name:** `linear_equation_solver.py` : An algebraic calculation tool in Python using NumPy to compute deterministic solution vectors for simultaneous matrix systems with singular error exception routing.
+* **プロジェクト名:** `linear_equation_solver.py` : 特異行列の例外処理ルーティングを備え、連立一次方程式の決定論的な解ベクトルを計算する、NumPyベースのPython線形代数計算用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
