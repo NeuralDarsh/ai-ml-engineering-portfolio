@@ -68,6 +68,14 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### AI Matrix Transposition Optimization Pipeline :
 * **Project Name:** `matrix_transpose_optimizer.py` : A Linear Algebra dimensional manipulation utility in Python using NumPy to compute structural matrix transpositions for deep learning pipeline alignments.
 * **プロジェクト名:** `matrix_transpose_optimizer.py` : ディープラーニングのパイプラインアライメント向けに、構造的な行列転置（Matrix Transposition）を計算する、NumPyベースのPython線形代数次元操作ユーティリティ。
+
+### AI System Linear Equation Solver :
+* **Project Name:** `linear_equation_solver.py` : An algebraic calculation tool in Python using NumPy to compute deterministic solution vectors for simultaneous matrix systems with singular error exception routing.
+* **プロジェクト名:** `linear_equation_solver.py` : 特異行列の例外処理ルーティングを備え、連立一次方程式の決定論的な解ベクトルを計算する、NumPyベースのPython線形代数計算用ユーティリティ。
+
+### IoT Battery Discharge Rate Degradation Monitor :
+* **Project Name:** `iot_battery_monitor.py` : A hardware telemetry analytics utility in Python that evaluates sequential voltage drops across time intervals to compute hourly discharge slopes and isolate decaying power cells.
+* **プロジェクト名:** `iot_battery_monitor.py` : 時間経過に伴う連続的な電圧降下を評価して1時間あたりの放電傾きを計算し、劣化している電源セルを特定する、Pythonベースのハードウェアテレメトリ分析ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
