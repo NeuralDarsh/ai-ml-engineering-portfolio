@@ -80,6 +80,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### AI Feature Vector Dot Product Engine :
 * **Project Name:** `vector_dot_product.py` : An algebraic calculation engine in Python utilizing NumPy to compute scalar dot products between multi-dimensional feature and weight vectors for ML layer scaling.
 * **プロジェクト名:** `vector_dot_product.py` : 機械学習レイヤーのスケーリング向けに、多次元の特徴ベクトルと重みベクトルの間でスカラー内積（Dot Product）を計算する、NumPyベースのPython線形代数計算用ユーティリティ。
+
+### IoT Network Packet Checksum Validator :
+* **Project Name:** `iot_packet_checksum.py` : A data integrity validation script in Python that utilizes modulo arithmetic byte hashing to calculate and verify packet checksum safety frames for streaming hardware telemetry channels.
+* **プロジェクト名:** `iot_packet_checksum.py` : ストリーミングハードウェアテレメトリチャネル向けに、モジュロ演算バイトハッシュ法を用いてパケットのチェックサム安全フレームを計算・検証する、Pythonベースのデータ整合性検証用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
