@@ -76,6 +76,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### IoT Battery Discharge Rate Degradation Monitor :
 * **Project Name:** `iot_battery_monitor.py` : A hardware telemetry analytics utility in Python that evaluates sequential voltage drops across time intervals to compute hourly discharge slopes and isolate decaying power cells.
 * **プロジェクト名:** `iot_battery_monitor.py` : 時間経過に伴う連続的な電圧降下を評価して1時間あたりの放電傾きを計算し、劣化している電源セルを特定する、Pythonベースのハードウェアテレメトリ分析ユーティリティ。
+
+### AI Feature Vector Dot Product Engine :
+* **Project Name:** `vector_dot_product.py` : An algebraic calculation engine in Python utilizing NumPy to compute scalar dot products between multi-dimensional feature and weight vectors for ML layer scaling.
+* **プロジェクト名:** `vector_dot_product.py` : 機械学習レイヤーのスケーリング向けに、多次元の特徴ベクトルと重みベクトルの間でスカラー内積（Dot Product）を計算する、NumPyベースのPython線形代数計算用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
