@@ -88,6 +88,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### AI Vector Coordinate Min-Max Scaler :
 * **Project Name:** `vector_minmax_scaler.py` : A data preprocessing utility in Python using NumPy that transforms raw 1D arrays into a bounded, normalized scale using element-wise vector broadcasts.
 * **プロジェクト名:** `vector_minmax_scaler.py` : 要素ごとのベクトルブロードキャストを用いて、生の1次元配列を境界付きの正規化スケールに変換する、NumPyベースのPythonデータ前処理用ユーティリティ。
+
+### IoT Device Bitmask Status Register Analyzer :
+* **Project Name:** `iot_bitmask_analyzer.py` : A hardware firmware decoding script in Python utilizing binary bitwise AND operations to extract multiple telemetry status flags from a single 8-bit integer byte register.
+* **プロジェクト名:** `iot_bitmask_analyzer.py` : 単一の8ビット整数バイトレジスタから複数のテレメトリステータスフラグを抽出するために、バイナリのビット単位AND演算を活用する、Pythonベースのハードウェアファームウェアデコード用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
