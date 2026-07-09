@@ -84,6 +84,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### IoT Network Packet Checksum Validator :
 * **Project Name:** `iot_packet_checksum.py` : A data integrity validation script in Python that utilizes modulo arithmetic byte hashing to calculate and verify packet checksum safety frames for streaming hardware telemetry channels.
 * **プロジェクト名:** `iot_packet_checksum.py` : ストリーミングハードウェアテレメトリチャネル向けに、モジュロ演算バイトハッシュ法を用いてパケットのチェックサム安全フレームを計算・検証する、Pythonベースのデータ整合性検証用ユーティリティ。
+
+### AI Vector Coordinate Min-Max Scaler :
+* **Project Name:** `vector_minmax_scaler.py` : A data preprocessing utility in Python using NumPy that transforms raw 1D arrays into a bounded, normalized scale using element-wise vector broadcasts.
+* **プロジェクト名:** `vector_minmax_scaler.py` : 要素ごとのベクトルブロードキャストを用いて、生の1次元配列を境界付きの正規化スケールに変換する、NumPyベースのPythonデータ前処理用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
