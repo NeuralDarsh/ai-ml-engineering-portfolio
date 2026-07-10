@@ -91,7 +91,11 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 
 ### IoT Device Bitmask Status Register Analyzer :
 * **Project Name:** `iot_bitmask_analyzer.py` : A hardware firmware decoding script in Python utilizing binary bitwise AND operations to extract multiple telemetry status flags from a single 8-bit integer byte register.
-* **プロジェクト名:** `iot_bitmask_analyzer.py` : 単一の8ビット整数バイトレジスタから複数のテレメトリステータスフラグを抽出するために、バイナリのビット単位AND演算を活用する、Pythonベースのハードウェアファームウェアデコード用ユーティリティ。
+* **プロジェクト名:** `iot_bitmask_analyzer.py` : 単一の8ビット整数バイトレジスタから複数のテレメトリステータスフラグを抽出するために、バイナリのビット単位AND演算を活用する、Pythonベースのハードウェアファームウェアデコード用ユーティリティ
+
+### AI Dataset Mean-Centering Vector Engine :
+* **Project Name:** `matrix_mean_centerer.py` : A data preprocessing matrix optimization utility in Python using NumPy that calculates column means and applies row broadcasting to shift feature vectors to a zero-centered spatial origin.
+* **プロジェクト名:** `matrix_mean_centerer.py` : 特徴ベクトルをゼロ中心の空間原点にシフトさせるために、列平均を計算して行ブロードキャストを適用する、NumPyベースのPythonデータ前処理用行列最適化ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
