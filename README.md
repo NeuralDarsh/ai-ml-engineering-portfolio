@@ -96,6 +96,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### AI Dataset Mean-Centering Vector Engine :
 * **Project Name:** `matrix_mean_centerer.py` : A data preprocessing matrix optimization utility in Python using NumPy that calculates column means and applies row broadcasting to shift feature vectors to a zero-centered spatial origin.
 * **プロジェクト名:** `matrix_mean_centerer.py` : 特徴ベクトルをゼロ中心の空間原点にシフトさせるために、列平均を計算して行ブロードキャストを適用する、NumPyベースのPythonデータ前処理用行列最適化ユーティリティ。
+
+### IoT Sensor Data Payload XOR Encryption Pipeline :
+* **Project Name:** `iot_xor_cipher.py` : A hardware data security utility in Python utilizing symmetric bitwise XOR operations to securely encrypt and decrypt telemetry strings for resource-constrained IoT networks.
+* **プロジェクト名:** `iot_xor_cipher.py` : リソースの制約が厳しいIoTネットワーク向けに、対称型のビット単位XOR演算を用いてテレメトリ文字列を安全に暗号化・復号する、Pythonベースのハードウェアデータセキュリティ用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
