@@ -100,6 +100,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### IoT Sensor Data Payload XOR Encryption Pipeline :
 * **Project Name:** `iot_xor_cipher.py` : A hardware data security utility in Python utilizing symmetric bitwise XOR operations to securely encrypt and decrypt telemetry strings for resource-constrained IoT networks.
 * **プロジェクト名:** `iot_xor_cipher.py` : リソースの制約が厳しいIoTネットワーク向けに、対称型のビット単位XOR演算を用いてテレメトリ文字列を安全に暗号化・復号する、Pythonベースのハードウェアデータセキュリティ用ユーティリティ。
+
+### Project Management Milestone Schedule Validator :
+* **Project Name:** `project_milestone_validator.py` : A scheduling evaluation utility in Python that analyzes task duration records to calculate cumulative timeline buffers and flag bottleneck delays within project lifecycles.
+* **プロジェクト名:** `project_milestone_validator.py` : タスクの所要時間レコードを分析して累積タイムラインバッファを計算し、プロジェクトのライフサイクルにおけるボトラーネックの遅延を特定する、Pythonベースのスケジュール評価ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
