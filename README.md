@@ -104,6 +104,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Project Management Milestone Schedule Validator :
 * **Project Name:** `project_milestone_validator.py` : A scheduling evaluation utility in Python that analyzes task duration records to calculate cumulative timeline buffers and flag bottleneck delays within project lifecycles.
 * **プロジェクト名:** `project_milestone_validator.py` : タスクの所要時間レコードを分析して累積タイムラインバッファを計算し、プロジェクトのライフサイクルにおけるボトラーネックの遅延を特定する、Pythonベースのスケジュール評価ユーティリティ。
+
+### AI Feature Data Variance Calculator :
+* **Project Name:** `data_variance_calculator.py` : A statistical math pipeline utility in Python using NumPy that calculates vector data variance scores to identify and screen out low-information feature arrays.
+* **プロジェクト名:** `data_variance_calculator.py` : 情報量の少ない特徴配列を特定して除外するために、ベクトルのデータ分散（Variance）スコアを計算する、NumPyベースのPython統計計算用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
