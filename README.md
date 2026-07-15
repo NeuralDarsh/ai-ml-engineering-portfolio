@@ -108,6 +108,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### AI Feature Data Variance Calculator :
 * **Project Name:** `data_variance_calculator.py` : A statistical math pipeline utility in Python using NumPy that calculates vector data variance scores to identify and screen out low-information feature arrays.
 * **プロジェクト名:** `data_variance_calculator.py` : 情報量の少ない特徴配列を特定して除外するために、ベクトルのデータ分散（Variance）スコアを計算する、NumPyベースのPython統計計算用ユーティリティ。
+
+### Automated GitHub Portfolio Markdown Generator :
+* **Project Name:** `repo_portfolio_generator.py` : A developer automation script in Python that audits workspace directory folders to count lines of code and generate dynamic portfolio summary documents.
+* **プロジェクト名:** `repo_portfolio_generator.py` : ワークスペースのディレクトリフォルダを監査してコードの行数をカウントし、動的なポートフォリオ概要ドキュメントを生成する、Pythonベースの開発者用自動化スクリプト。
 ---
 
 ##  Contact & Professional Profiles
