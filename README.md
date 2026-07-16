@@ -112,6 +112,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated GitHub Portfolio Markdown Generator :
 * **Project Name:** `repo_portfolio_generator.py` : A developer automation script in Python that audits workspace directory folders to count lines of code and generate dynamic portfolio summary documents.
 * **プロジェクト名:** `repo_portfolio_generator.py` : ワークスペースのディレクトリフォルダを監査してコードの行数をカウントし、動的なポートフォリオ概要ドキュメントを生成する、Pythonベースの開発者用自動化スクリプト。
+
+### Production Log JSON Data Sanitizer :
+* **Project Name:** `log_json_sanitizer.py` : A data engineering automation script in Python that uses regular expressions to parse unstructured application text logs, filter out noise, and export structured JSON documents.
+* **プロジェクト名:** `log_json_sanitizer.py` : 正規表現を使用して非構造化アプリケーションのテキストログを解析し、ノイズを除去して構造化されたJSONドキュメントをエクスポートする、Pythonベースのデータエンジニアリング自動化スクリプト。
 ---
 
 ##  Contact & Professional Profiles
