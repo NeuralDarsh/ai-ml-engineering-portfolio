@@ -116,6 +116,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Production Log JSON Data Sanitizer :
 * **Project Name:** `log_json_sanitizer.py` : A data engineering automation script in Python that uses regular expressions to parse unstructured application text logs, filter out noise, and export structured JSON documents.
 * **プロジェクト名:** `log_json_sanitizer.py` : 正規表現を使用して非構造化アプリケーションのテキストログを解析し、ノイズを除去して構造化されたJSONドキュメントをエクスポートする、Pythonベースのデータエンジニアリング自動化スクリプト。
+
+### Automated Web API Status Checker :
+* **Project Name:** `web_api_status_checker.py` : A developer network utility in Python that pings web target endpoints to evaluate connection stability status codes and measure response latency delays.
+* **プロジェクト名:** `web_api_status_checker.py` : 接続の安定性ステータスコードを評価し、応答の遅延時間を測定するために、Webターゲットのデータエンドポイントにpingを送信する、Pythonベースの開発者用ネットワークユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
