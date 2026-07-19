@@ -120,6 +120,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Web API Status Checker :
 * **Project Name:** `web_api_status_checker.py` : A developer network utility in Python that pings web target endpoints to evaluate connection stability status codes and measure response latency delays.
 * **プロジェクト名:** `web_api_status_checker.py` : 接続の安定性ステータスコードを評価し、応答の遅延時間を測定するために、Webターゲットのデータエンドポイントにpingを送信する、Pythonベースの開発者用ネットワークユーティリティ。
+
+### Automated Projects Folder Backup Packager :
+* **Project Name:** `folder_backup_packager.py` : A filesystem utility in Python that scans target workspaces to generate compressed, timestamped zip archives for automated source code backups.
+* **プロジェクト名:** `folder_backup_packager.py` : 自動化されたソースコードのバックアップ向けに、対象のワークスペースをスキャンして圧縮されたタイムスタンプ付きのzipアーカイブを生成する、Pythonベースのファイルシステム用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
