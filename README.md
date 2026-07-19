@@ -124,6 +124,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Projects Folder Backup Packager :
 * **Project Name:** `folder_backup_packager.py` : A filesystem utility in Python that scans target workspaces to generate compressed, timestamped zip archives for automated source code backups.
 * **プロジェクト名:** `folder_backup_packager.py` : 自動化されたソースコードのバックアップ向けに、対象のワークスペースをスキャンして圧縮されたタイムスタンプ付きのzipアーカイブを生成する、Pythonベースのファイルシステム用ユーティリティ。
+
+### Automated Markdown Link Validator :
+* **Project Name:** `markdown_link_validator.py` : A developer markdown parser in Python that extracts hyperlinked URL strings from files and evaluates their web access stability status.
+* **プロジェクト名:** `markdown_link_validator.py` : ファイルからハイパーリンクされたURL文字列を抽出し、そのWebアクセス安定性ステータスを評価する、Pythonベースの開発者用マークダウン解析ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
