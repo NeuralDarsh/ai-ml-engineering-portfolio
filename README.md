@@ -128,6 +128,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Markdown Link Validator :
 * **Project Name:** `markdown_link_validator.py` : A developer markdown parser in Python that extracts hyperlinked URL strings from files and evaluates their web access stability status.
 * **プロジェクト名:** `markdown_link_validator.py` : ファイルからハイパーリンクされたURL文字列を抽出し、そのWebアクセス安定性ステータスを評価する、Pythonベースの開発者用マークダウン解析ユーティリティ。
+
+### Automated SQL Query Formatter :
+* **Project Name:** `sql_query_formatter.py` : A developer text-processing utility in Python that parses raw database SQL strings to standardize keyword casing, line breaks, and indentation.
+* **プロジェクト名:** `sql_query_formatter.py` : キーワードの大文字小文字表記、改行、およびインデントを標準化するために生のデータベースSQL文字列を解析する、Pythonベースの開発者用テキスト処理ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
