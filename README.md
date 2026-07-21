@@ -132,6 +132,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated SQL Query Formatter :
 * **Project Name:** `sql_query_formatter.py` : A developer text-processing utility in Python that parses raw database SQL strings to standardize keyword casing, line breaks, and indentation.
 * **プロジェクト名:** `sql_query_formatter.py` : キーワードの大文字小文字表記、改行、およびインデントを標準化するために生のデータベースSQL文字列を解析する、Pythonベースの開発者用テキスト処理ユーティリティ。
+
+### Automated Secret Leak Detector :
+* **Project Name:** `secret_leak_detector.py` : A security automation utility in Python that scans workspace files using regular expression patterns to flag exposed credentials and hardcoded secret keys.
+* **プロジェクト名:** `secret_leak_detector.py` : 露出した資格情報やハードコードされた秘密鍵を特定するために、正規表現パターンを用いてワークスペースファイルをスキャンする、Pythonベースのセキュリティ自動化ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
