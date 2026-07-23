@@ -136,6 +136,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Secret Leak Detector :
 * **Project Name:** `secret_leak_detector.py` : A security automation utility in Python that scans workspace files using regular expression patterns to flag exposed credentials and hardcoded secret keys.
 * **プロジェクト名:** `secret_leak_detector.py` : 露出した資格情報やハードコードされた秘密鍵を特定するために、正規表現パターンを用いてワークスペースファイルをスキャンする、Pythonベースのセキュリティ自動化ユーティリティ。
+
+### AI API Response Schema Validator :
+* **Project Name:** `api_response_validator.py` : An AI microservice utility in Python that validates dynamic JSON response payloads against expected type schemas to ensure data integrity at API boundaries.
+* **プロジェクト名:** `api_response_validator.py` : APIの境界でデータの整合性を確保するために、動的なJSONレスポンスペイロードを期待される型スキーマに対して検証する、PythonベースのAIマイクロサービス用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
