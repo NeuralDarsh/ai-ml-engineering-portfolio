@@ -144,6 +144,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated CSV to Markdown Table Converter :
 * **Project Name:** `csv_to_markdown_table.py` : A developer documentation utility in Python that parses raw CSV data and calculates dynamic column padding to generate formatted GitHub-flavored markdown tables.
 * **プロジェクト名:** `csv_to_markdown_table.py` : 整形されたGitHubスタイルのマークダウンテーブルを生成するために、生データ（CSV）を解析して動的な列パディングを計算する、Pythonベースの開発者向けドキュメント作成ユーティリティ。
+
+### Automated Git Commit Message Linter :
+* **Project Name:** `git_commit_linter.py` : A developer workflow utility in Python that validates git commit strings against Conventional Commits formatting rules and character length limits.
+* **プロジェクト名:** `git_commit_linter.py` : Gitのコミット文字列をConventional Commitsのフォーマットルールおよび文字数制限に対して検証する、Pythonベースの開発者ワークフロー用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
