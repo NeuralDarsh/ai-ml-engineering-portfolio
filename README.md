@@ -140,6 +140,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### AI API Response Schema Validator :
 * **Project Name:** `api_response_validator.py` : An AI microservice utility in Python that validates dynamic JSON response payloads against expected type schemas to ensure data integrity at API boundaries.
 * **プロジェクト名:** `api_response_validator.py` : APIの境界でデータの整合性を確保するために、動的なJSONレスポンスペイロードを期待される型スキーマに対して検証する、PythonベースのAIマイクロサービス用ユーティリティ。
+
+### Automated CSV to Markdown Table Converter :
+* **Project Name:** `csv_to_markdown_table.py` : A developer documentation utility in Python that parses raw CSV data and calculates dynamic column padding to generate formatted GitHub-flavored markdown tables.
+* **プロジェクト名:** `csv_to_markdown_table.py` : 整形されたGitHubスタイルのマークダウンテーブルを生成するために、生データ（CSV）を解析して動的な列パディングを計算する、Pythonベースの開発者向けドキュメント作成ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
