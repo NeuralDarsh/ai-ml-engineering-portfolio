@@ -148,6 +148,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Git Commit Message Linter :
 * **Project Name:** `git_commit_linter.py` : A developer workflow utility in Python that validates git commit strings against Conventional Commits formatting rules and character length limits.
 * **プロジェクト名:** `git_commit_linter.py` : Gitのコミット文字列をConventional Commitsのフォーマットルールおよび文字数制限に対して検証する、Pythonベースの開発者ワークフロー用ユーティリティ。
+
+### Automated JSON Configuration Flattener :
+* **Project Name:** `json_config_flattener.py` : A developer data structure utility in Python that recursively flattens multi-level nested JSON configurations into dot-notation key-value pairs for system environments.
+* **プロジェクト名:** `json_config_flattener.py` : システム環境向けに、多層構造のネストされたJSON設定をドット記法のキーと値のペアに再帰的に平坦化する、Pythonベースの開発者用データ構造ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
