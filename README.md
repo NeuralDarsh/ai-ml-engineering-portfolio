@@ -152,6 +152,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated JSON Configuration Flattener :
 * **Project Name:** `json_config_flattener.py` : A developer data structure utility in Python that recursively flattens multi-level nested JSON configurations into dot-notation key-value pairs for system environments.
 * **プロジェクト名:** `json_config_flattener.py` : システム環境向けに、多層構造のネストされたJSON設定をドット記法のキーと値のペアに再帰的に平坦化する、Pythonベースの開発者用データ構造ユーティリティ。
+
+### Automated User-Agent Header Rotator :
+* **Project Name:** `user_agent_rotator.py` : A web network utility in Python that manages a pool of browser user-agent signatures to dynamically mask HTTP request headers and prevent scraper IP blocks.
+* **プロジェクト名:** `user_agent_rotator.py` : HTTPリクエストヘッダーを動的にマスクし、スクレイパーのIPブロックを防止するために、ブラウザのUser-Agent署名プールを管理する、PythonベースのWebネットワーク用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
