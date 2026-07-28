@@ -156,6 +156,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated User-Agent Header Rotator :
 * **Project Name:** `user_agent_rotator.py` : A web network utility in Python that manages a pool of browser user-agent signatures to dynamically mask HTTP request headers and prevent scraper IP blocks.
 * **プロジェクト名:** `user_agent_rotator.py` : HTTPリクエストヘッダーを動的にマスクし、スクレイパーのIPブロックを防止するために、ブラウザのUser-Agent署名プールを管理する、PythonベースのWebネットワーク用ユーティリティ。
+
+### Automated API Rate Limit Header Parser :
+* **Project Name:** `api_ratelimit_parser.py` : A developer network utility in Python that extracts rate-limit response headers and converts Unix reset timestamps into wait-time deltas to prevent API throttling errors.
+* **プロジェクト名:** `api_ratelimit_parser.py` : APIのレート制限エラーを防止するために、レスポンスヘッダーから制限情報を抽出し、Unixリセットタイムスタンプを待機時間デルタに変換する、Pythonベースの開発者用ネットワークユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
