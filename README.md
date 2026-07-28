@@ -160,6 +160,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated API Rate Limit Header Parser :
 * **Project Name:** `api_ratelimit_parser.py` : A developer network utility in Python that extracts rate-limit response headers and converts Unix reset timestamps into wait-time deltas to prevent API throttling errors.
 * **プロジェクト名:** `api_ratelimit_parser.py` : APIのレート制限エラーを防止するために、レスポンスヘッダーから制限情報を抽出し、Unixリセットタイムスタンプを待機時間デルタに変換する、Pythonベースの開発者用ネットワークユーティリティ。
+
+### Automated Data Redactor & PII Sanitizer :
+* **Project Name:** `pii_data_sanitizer.py` : A data privacy utility in Python using regular expressions to automatically scan text payloads and redact sensitive personally identifiable information (PII).
+* **プロジェクト名:** `pii_data_sanitizer.py` : テキストペイロードを自動的にスキャンし、敏感な個人識別情報（PII）を伏字処理するために正規表現を使用する、Pythonベースのデータプライバシー用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
