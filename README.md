@@ -168,6 +168,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated API Endpoint URL Builder :
 * **Project Name:** `api_url_builder.py` : A developer network utility in Python that safely encodes special characters and serializes parameter dictionaries into production-ready API endpoint URLs.
 * **プロジェクト名:** `api_url_builder.py` : 特殊文字を安全にエンコードし、パラメータ辞書を本番環境に対応したAPIエンドポイントURLに直列化（シリアライズ）する、Pythonベースの開発者用ネットワークユーティリティ。
+
+### Automated System Resource Health Monitor :
+* **Project Name:** `system_resource_monitor.py` : A system monitoring utility in Python using shutil that audits local storage capacity, computes consumption percentages, and triggers capacity warning alerts.
+* **プロジェクト名:** `system_resource_monitor.py` : ローカルストレージ容量を監査し、使用率（％）を計算して容量警告アラートをトリガーする、shutilを用いたPythonベースのシステム監視ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
