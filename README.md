@@ -164,6 +164,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Data Redactor & PII Sanitizer :
 * **Project Name:** `pii_data_sanitizer.py` : A data privacy utility in Python using regular expressions to automatically scan text payloads and redact sensitive personally identifiable information (PII).
 * **プロジェクト名:** `pii_data_sanitizer.py` : テキストペイロードを自動的にスキャンし、敏感な個人識別情報（PII）を伏字処理するために正規表現を使用する、Pythonベースのデータプライバシー用ユーティリティ。
+
+### Automated API Endpoint URL Builder :
+* **Project Name:** `api_url_builder.py` : A developer network utility in Python that safely encodes special characters and serializes parameter dictionaries into production-ready API endpoint URLs.
+* **プロジェクト名:** `api_url_builder.py` : 特殊文字を安全にエンコードし、パラメータ辞書を本番環境に対応したAPIエンドポイントURLに直列化（シリアライズ）する、Pythonベースの開発者用ネットワークユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
