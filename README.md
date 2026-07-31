@@ -172,6 +172,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated System Resource Health Monitor :
 * **Project Name:** `system_resource_monitor.py` : A system monitoring utility in Python using shutil that audits local storage capacity, computes consumption percentages, and triggers capacity warning alerts.
 * **プロジェクト名:** `system_resource_monitor.py` : ローカルストレージ容量を監査し、使用率（％）を計算して容量警告アラートをトリガーする、shutilを用いたPythonベースのシステム監視ユーティリティ。
+
+### Automated HTML Content Cleaner :
+* **Project Name:** `html_content_cleaner.py` : A data engineering text utility in Python that strips HTML tags, script blocks, and style metadata from web markup to extract clean plain text for AI training data.
+* **プロジェクト名:** `html_content_cleaner.py` : AIの学習データ用にクリーンなプレーンテキストを抽出するため、WebマークアップからHTMLタグ、スクリプトブロック、およびスタイルメタデータを除去する、Pythonベースのデータエンジニアリング用テキストユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
