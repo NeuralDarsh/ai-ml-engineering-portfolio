@@ -180,6 +180,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Cron Schedule Humanizer :
 * **Project Name:** `cron_expression_humanizer.py` : A developer workflow utility in Python that validates 5-part cron syntax against field limits and translates raw expression strings into human-readable schedules.
 * **プロジェクト名:** `cron_expression_humanizer.py` : 5パートのCron構文をフィールド制限に対して検証し、生表現文字列を人間が読みやすいスケジュールに翻訳する、Pythonベースの開発者ワークフロー用ユーティリティ。
+
+### Automated Environment Template Generator :
+* **Project Name:** `env_template_generator.py` : A developer security utility in Python that parses local `.env` files to strip sensitive values and automatically export safe `.env.example` templates for git repositories.
+* **プロジェクト名:** `env_template_generator.py` : 機密情報を削除し、Gitリポジトリ用に安全な`.env.example`テンプレートを自動的にエクスポートするために、ローカルの`.env`ファイルを解析する、Pythonベースのセキュリティユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
