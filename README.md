@@ -192,6 +192,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Data Schema Difference Checker :
 * **Project Name:** `schema_diff_checker.py` : A data engineering quality utility in Python that recursively audits two dictionary payloads to identify missing keys, added fields, and data type mismatches.
 * **プロジェクト名:** `schema_diff_checker.py` : 欠損キー、追加されたフィールド、およびデータ型の不一致を特定するために、2つの辞書ペイロードを再帰的に監査する、Pythonベースのデータ品質用ユーティリティ。
+
+### Automated JWT Header & Payload Token Decoder :
+* **Project Name:** `jwt_token_decoder.py` : A developer security utility in Python that unpacks Base64URL-encoded JWT strings to extract header metadata, payload claims, and human-readable expiration dates.
+* **プロジェクト名:** `jwt_token_decoder.py` : ヘッダーのメタデータ、ペイロードのクレーム、および人間が読みやすい有効期限を抽出するためにBase64URLエンコードされたJWT文字列を展開する、Pythonベースの開発者用セキュリティユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
