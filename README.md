@@ -196,6 +196,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated JWT Header & Payload Token Decoder :
 * **Project Name:** `jwt_token_decoder.py` : A developer security utility in Python that unpacks Base64URL-encoded JWT strings to extract header metadata, payload claims, and human-readable expiration dates.
 * **プロジェクト名:** `jwt_token_decoder.py` : ヘッダーのメタデータ、ペイロードのクレーム、および人間が読みやすい有効期限を抽出するためにBase64URLエンコードされたJWT文字列を展開する、Pythonベースの開発者用セキュリティユーティリティ。
+
+### Automated Key-Value Pair String Parser :
+* **Project Name:** `key_value_string_parser.py` : A developer data utility in Python that parses raw delimited key-value strings into structured, trimmed Python dictionaries and JSON payloads.
+* **プロジェクト名:** `key_value_string_parser.py` : 区切り文字で区切られた生のキーと値の文字列を、構造化され整頓されたPython辞書およびJSONペイロードに解析する、Pythonベースの開発者用データユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
