@@ -184,6 +184,14 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Environment Template Generator :
 * **Project Name:** `env_template_generator.py` : A developer security utility in Python that parses local `.env` files to strip sensitive values and automatically export safe `.env.example` templates for git repositories.
 * **プロジェクト名:** `env_template_generator.py` : 機密情報を削除し、Gitリポジトリ用に安全な`.env.example`テンプレートを自動的にエクスポートするために、ローカルの`.env`ファイルを解析する、Pythonベースのセキュリティユーティリティ。
+
+### Automated URL Query String Unpacker :
+* **Project Name:** `url_query_unpacker.py` : A developer network utility in Python that parses raw inbound URLs, decodes percent-encoded queries, and unpacks query parameters into structured JSON dictionaries.
+* **プロジェクト名:** `url_query_unpacker.py` : 受信した生のURLを解析し、パーセントエンコードされたクエリをデコードして、クエリパラメータを構造化されたJSON辞書に展開する、Pythonベースの開発者用ネットワークユーティリティ。
+
+### Automated Data Schema Difference Checker :
+* **Project Name:** `schema_diff_checker.py` : A data engineering quality utility in Python that recursively audits two dictionary payloads to identify missing keys, added fields, and data type mismatches.
+* **プロジェクト名:** `schema_diff_checker.py` : 欠損キー、追加されたフィールド、およびデータ型の不一致を特定するために、2つの辞書ペイロードを再帰的に監査する、Pythonベースのデータ品質用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
