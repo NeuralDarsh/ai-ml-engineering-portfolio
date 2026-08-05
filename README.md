@@ -200,6 +200,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Key-Value Pair String Parser :
 * **Project Name:** `key_value_string_parser.py` : A developer data utility in Python that parses raw delimited key-value strings into structured, trimmed Python dictionaries and JSON payloads.
 * **プロジェクト名:** `key_value_string_parser.py` : 区切り文字で区切られた生のキーと値の文字列を、構造化され整頓されたPython辞書およびJSONペイロードに解析する、Pythonベースの開発者用データユーティリティ。
+
+### Automated Memory Unit Normalizer :
+* **Project Name:** `memory_unit_converter.py` : A system data utility in Python that parses human-readable memory strings (KB, MB, GB, TB) and standardizes them into exact byte representations.
+* **プロジェクト名:** `memory_unit_converter.py` : 人間が読みやすいメモリ文字列（KB、MB、GB、TB）を解析し、それらを正確なバイト表現に標準化する、Pythonベースのシステムデータユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
