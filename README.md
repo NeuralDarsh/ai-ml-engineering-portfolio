@@ -204,6 +204,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Memory Unit Normalizer :
 * **Project Name:** `memory_unit_converter.py` : A system data utility in Python that parses human-readable memory strings (KB, MB, GB, TB) and standardizes them into exact byte representations.
 * **プロジェクト名:** `memory_unit_converter.py` : 人間が読みやすいメモリ文字列（KB、MB、GB、TB）を解析し、それらを正確なバイト表現に標準化する、Pythonベースのシステムデータユーティリティ。
+
+### Automated Data Type Schema Profiler :
+* **Project Name:** `dict_schema_profiler.py` : A data engineering inspection utility in Python that recursively profiles dictionary payloads to generate structural data type schema contracts.
+* **プロジェクト名:** `dict_schema_profiler.py` : 構造的なデータ型スキーマ契約を生成するために辞書ペイロードを再帰的にプロファイリングする、Pythonベースのデータエンジニアリング用検査ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
