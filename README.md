@@ -208,6 +208,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Data Type Schema Profiler :
 * **Project Name:** `dict_schema_profiler.py` : A data engineering inspection utility in Python that recursively profiles dictionary payloads to generate structural data type schema contracts.
 * **プロジェクト名:** `dict_schema_profiler.py` : 構造的なデータ型スキーマ契約を生成するために辞書ペイロードを再帰的にプロファイリングする、Pythonベースのデータエンジニアリング用検査ユーティリティ。
+
+### Automated Process Environment Auditor :
+* **Project Name:** `process_env_auditor.py` : A system operational utility in Python that inspects active process PIDs, platform metadata, and environment flags to audit runtime execution health.
+* **プロジェクト名:** `process_env_auditor.py` : 実行時の正常性を監査するために、アクティブなプロセスPID、プラットフォームメタデータ、および環境フラグを検査する、Pythonベースのシステム運用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
