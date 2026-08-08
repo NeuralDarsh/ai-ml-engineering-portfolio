@@ -212,6 +212,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Process Environment Auditor :
 * **Project Name:** `process_env_auditor.py` : A system operational utility in Python that inspects active process PIDs, platform metadata, and environment flags to audit runtime execution health.
 * **プロジェクト名:** `process_env_auditor.py` : 実行時の正常性を監査するために、アクティブなプロセスPID、プラットフォームメタデータ、および環境フラグを検査する、Pythonベースのシステム運用ユーティリティ。
+
+### Automated TSV to JSON Converter :
+* **Project Name:** `tsv_to_json_converter.py` : A data engineering utility in Python that parses tab-separated values (TSV), performs dynamic type casting, and exports structured JSON arrays.
+* **プロジェクト名:** `tsv_to_json_converter.py` : タブ区切り値（TSV）を解析し、動的な型キャストを実行して構造化されたJSON配列をエクスポートする、Pythonベースのデータエンジニアリング用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
