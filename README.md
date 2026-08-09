@@ -216,6 +216,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated TSV to JSON Converter :
 * **Project Name:** `tsv_to_json_converter.py` : A data engineering utility in Python that parses tab-separated values (TSV), performs dynamic type casting, and exports structured JSON arrays.
 * **プロジェクト名:** `tsv_to_json_converter.py` : タブ区切り値（TSV）を解析し、動的な型キャストを実行して構造化されたJSON配列をエクスポートする、Pythonベースのデータエンジニアリング用ユーティリティ。
+
+### Automated API Endpoint Benchmark Profiler :
+* **Project Name:** `api_benchmark_profiler.py` : A performance engineering utility in Python that executes benchmark test runs against web endpoints to compute response latency statistics (Min, Max, Mean, StdDev).
+* **プロジェクト名:** `api_benchmark_profiler.py` : 応答遅延の統計（最小、最大、平均、標準偏差）を計算するためにWebエンドポイントに対してベンチマークテストを実行する、Pythonベースのパフォーマンスエンジニアリングユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
