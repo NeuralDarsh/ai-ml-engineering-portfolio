@@ -224,6 +224,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated JSON Compression Auditor :
 * **Project Name:** `json_compression_auditor.py` : A data engineering utility in Python that measures JSON serialization sizes and calculates gzip compression ratios to optimize network payloads.
 * **プロジェクト名:** `json_compression_auditor.py` : JSONシリアライズサイズを測定し、ネットワークペイロードを最適化するためにgzip圧縮率を計算する、Pythonベースのデータエンジニアリング用ユーティリティ。
+
+### Automated RegEx Pattern Masker :
+* **Project Name:** `regex_pattern_masker.py` : A security utility in Python that applies configurable regular expression substitution rules to redact sensitive tokens, identification numbers, and credit cards in text streams.
+* **プロジェクト名:** `regex_pattern_masker.py` : テキストストリーム内の機密トークン、識別番号、およびクレジットカード情報を伏字処理するために、設定可能な正規表現置換ルールを適用する、Pythonベースのセキュリティユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
