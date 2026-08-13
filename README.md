@@ -232,6 +232,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Code Metrics Profiler :
 * **Project Name:** `code_metrics_profiler.py` : A software engineering utility in Python that parses source files to compute lines of code (LOC), blank lines, comment counts, and documentation density ratios.
 * **プロジェクト名:** `code_metrics_profiler.py` : コード行数（LOC）、空行、コメント数、およびドキュメント密度比率を計算するためにソースファイルを解析する、Pythonベースのソフトウェアエンジニアリング用ユーティリティ。
+
+### Automated HTTP Response Header Policy Injector :
+* **Project Name:** `http_header_policy_injector.py` : A security network utility in Python that audits HTTP response headers, injects missing web security policies, and redacts revealing server identification tokens.
+* **プロジェクト名:** `http_header_policy_injector.py` : HTTPレスポンスヘッダーを監査し、不足しているWebセキュリティポリシーを注入し、サーバー識別トークンを伏字処理する、Pythonベースのセキュリティネットワーク用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
