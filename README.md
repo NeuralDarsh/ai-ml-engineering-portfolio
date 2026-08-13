@@ -228,6 +228,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated RegEx Pattern Masker :
 * **Project Name:** `regex_pattern_masker.py` : A security utility in Python that applies configurable regular expression substitution rules to redact sensitive tokens, identification numbers, and credit cards in text streams.
 * **プロジェクト名:** `regex_pattern_masker.py` : テキストストリーム内の機密トークン、識別番号、およびクレジットカード情報を伏字処理するために、設定可能な正規表現置換ルールを適用する、Pythonベースのセキュリティユーティリティ。
+
+### Automated Code Metrics Profiler :
+* **Project Name:** `code_metrics_profiler.py` : A software engineering utility in Python that parses source files to compute lines of code (LOC), blank lines, comment counts, and documentation density ratios.
+* **プロジェクト名:** `code_metrics_profiler.py` : コード行数（LOC）、空行、コメント数、およびドキュメント密度比率を計算するためにソースファイルを解析する、Pythonベースのソフトウェアエンジニアリング用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
