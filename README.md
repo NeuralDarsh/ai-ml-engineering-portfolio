@@ -240,6 +240,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Exponential Backoff & Retry Engine :
 * **Project Name:** `exponential_backoff_retry.py` : A distributed systems utility in Python that implements exponential backoff scaling and full jitter randomization to safely retry failed network requests.
 * **プロジェクト名:** `exponential_backoff_retry.py` : 失敗したネットワークリクエストを安全に再試行するために、指数バックオフスケーリングとフルジッターランダム化を実装する、Pythonベースの分散システム用ユーティリティ。
+
+### Automated Sliding Window Rate Limiter :
+* **Project Name:** `sliding_window_rate_limiter.py` : An API gateway utility in Python implementing a sliding window timestamp log algorithm to enforce request quotas and prevent rate limit overruns.
+* **プロジェクト名:** `sliding_window_rate_limiter.py` : リクエストクォータを強制しレート制限超過を防ぐために、スライディングウィンドウのタイムスタンプログアルゴリズムを実装する、PythonベースのAPIゲートウェイ用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
