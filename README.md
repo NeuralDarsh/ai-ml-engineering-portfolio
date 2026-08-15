@@ -236,6 +236,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated HTTP Response Header Policy Injector :
 * **Project Name:** `http_header_policy_injector.py` : A security network utility in Python that audits HTTP response headers, injects missing web security policies, and redacts revealing server identification tokens.
 * **プロジェクト名:** `http_header_policy_injector.py` : HTTPレスポンスヘッダーを監査し、不足しているWebセキュリティポリシーを注入し、サーバー識別トークンを伏字処理する、Pythonベースのセキュリティネットワーク用ユーティリティ。
+
+### Automated Exponential Backoff & Retry Engine :
+* **Project Name:** `exponential_backoff_retry.py` : A distributed systems utility in Python that implements exponential backoff scaling and full jitter randomization to safely retry failed network requests.
+* **プロジェクト名:** `exponential_backoff_retry.py` : 失敗したネットワークリクエストを安全に再試行するために、指数バックオフスケーリングとフルジッターランダム化を実装する、Pythonベースの分散システム用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
