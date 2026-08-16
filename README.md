@@ -244,6 +244,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Sliding Window Rate Limiter :
 * **Project Name:** `sliding_window_rate_limiter.py` : An API gateway utility in Python implementing a sliding window timestamp log algorithm to enforce request quotas and prevent rate limit overruns.
 * **プロジェクト名:** `sliding_window_rate_limiter.py` : リクエストクォータを強制しレート制限超過を防ぐために、スライディングウィンドウのタイムスタンプログアルゴリズムを実装する、PythonベースのAPIゲートウェイ用ユーティリティ。
+
+### Automated LRU Cache Eviction Engine :
+* **Project Name:** `lru_cache_engine.py` : An in-memory cache management utility in Python using OrderedDict that implements Least Recently Used (LRU) eviction and telemetry tracking.
+* **プロジェクト名:** `lru_cache_engine.py` : 最近最も使われていない（LRU）データの破棄ポリシーとテレメトリ追跡を実装する、OrderedDictを用いたPythonベースのインメモリキャッシュ管理ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
