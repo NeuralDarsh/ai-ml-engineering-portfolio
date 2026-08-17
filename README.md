@@ -248,6 +248,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated LRU Cache Eviction Engine :
 * **Project Name:** `lru_cache_engine.py` : An in-memory cache management utility in Python using OrderedDict that implements Least Recently Used (LRU) eviction and telemetry tracking.
 * **プロジェクト名:** `lru_cache_engine.py` : 最近最も使われていない（LRU）データの破棄ポリシーとテレメトリ追跡を実装する、OrderedDictを用いたPythonベースのインメモリキャッシュ管理ユーティリティ。
+
+### Automated Microservice Circuit Breaker Engine :
+* **Project Name:** `circuit_breaker_engine.py` : A distributed systems resiliency utility in Python implementing a three-state circuit breaker (Closed, Open, Half-Open) to fail fast and prevent cascading network outages.
+* **プロジェクト名:** `circuit_breaker_engine.py` : 連鎖的なネットワーク障害を防ぎフェイルファストを実現するために、3つの状態（クローズ、オープン、ハーフオープン）のサーキットブレーカーを実装する、Pythonベースの分散システム耐障害性ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
