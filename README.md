@@ -256,6 +256,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated PII Data Anonymizer :
 * **Project Name:** `pii_data_anonymizer.py` : A data privacy and security utility in Python that scans structured records to mask emails, phone numbers, IP addresses, and hash user identities for compliance.
 * **プロジェクト名:** `pii_data_anonymizer.py` : コンプライアンスのために、構造化レコードをスキャンしてメール、電話番号、IPアドレスを伏字処理し、ユーザー識別子をハッシュ化する、Pythonベースのデータプライバシー用セキュリティユーティリティ。
+
+### Automated SemVer Compatibility Checker :
+* **Project Name:** `semver_compatibility_checker.py` : A DevOps and software architecture utility in Python that parses semantic versioning strings to audit API compatibility and flag breaking changes.
+* **プロジェクト名:** `semver_compatibility_checker.py` : APIの互換性を監査し破壊的変更を検出するためにセマンティックバージョニング文字列を解析する、PythonベースのDevOpsおよびソフトウェアアーキテクチャ用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
