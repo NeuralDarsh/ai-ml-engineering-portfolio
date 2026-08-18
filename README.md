@@ -252,6 +252,14 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Microservice Circuit Breaker Engine :
 * **Project Name:** `circuit_breaker_engine.py` : A distributed systems resiliency utility in Python implementing a three-state circuit breaker (Closed, Open, Half-Open) to fail fast and prevent cascading network outages.
 * **プロジェクト名:** `circuit_breaker_engine.py` : 連鎖的なネットワーク障害を防ぎフェイルファストを実現するために、3つの状態（クローズ、オープン、ハーフオープン）のサーキットブレーカーを実装する、Pythonベースの分散システム耐障害性ユーティリティ。
+
+### Automated PII Data Anonymizer :
+* **Project Name:** `pii_data_anonymizer.py` : A data privacy and security utility in Python that scans structured records to mask emails, phone numbers, IP addresses, and hash user identities for compliance.
+* **プロジェクト名:** `pii_data_anonymizer.py` : コンプライアンスのために、構造化レコードをスキャンしてメール、電話番号、IPアドレスを伏字処理し、ユーザー識別子をハッシュ化する、Pythonベースのデータプライバシー用セキュリティユーティリティ。
+
+### Automated SemVer Compatibility Checker :
+* **Project Name:** `semver_compatibility_checker.py` : A DevOps and software architecture utility in Python that parses semantic versioning strings to audit API compatibility and flag breaking changes.
+* **プロジェクト名:** `semver_compatibility_checker.py` : APIの互換性を監査し破壊的変更を検出するためにセマンティックバージョニング文字列を解析する、PythonベースのDevOpsおよびソフトウェアアーキテクチャ用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
