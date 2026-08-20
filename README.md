@@ -268,6 +268,11 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Request Correlation Tracker :
 * *Project Name:* request_correlation_tracker.py : A distributed systems observability utility in Python that generates and propagates Correlation IDs (X-Correlation-ID) across microservices to enable end-to-end request tracing.
 * *プロジェクト名:* request_correlation_tracker.py : エンドツーエンドのリクエスト追跡を可能にするために、マイクロサービス間で相関ID（X-Correlation-ID）を生成および伝播する、Pythonベースの分散システム可観測性ユーティリティ。
+
+### Automated Dead Letter Queue Manager :
+* *Project Name:* dead_letter_queue_manager.py : A distributed systems utility in Python that tracks message processing delivery attempts, isolates poison payloads, and routes failed jobs to a Dead Letter Queue (DLQ).
+* *プロジェクト名:* dead_letter_queue_manager.py : メッセージ処理の試行回数を追跡し、有害なペイロードを隔離して失敗したジョブをデッドレターキュー（DLQ）にルーティングする、Pythonベースの分散システム用ユーティリティ。
+*
 *
 
 ---
