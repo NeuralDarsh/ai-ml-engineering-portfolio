@@ -265,6 +265,11 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 * *Project Name:* `payload_checksum_validator.py` : A security and distributed systems utility in Python that generates deterministic SHA-256 payload checksums to verify message integrity across microservices.
 * *プロジェクト名:* `payload_checksum_validator.py` : マイクロサービス間でのメッセージの整合性を検証するために、決定論的なSHA-256ペイロードチェックサムを生成する、Pythonベースのセキュリティおよび分散システム用ユーティリティ。
 
+### Automated Request Correlation Tracker :
+* *Project Name:* request_correlation_tracker.py : A distributed systems observability utility in Python that generates and propagates Correlation IDs (X-Correlation-ID) across microservices to enable end-to-end request tracing.
+* *プロジェクト名:* request_correlation_tracker.py : エンドツーエンドのリクエスト追跡を可能にするために、マイクロサービス間で相関ID（X-Correlation-ID）を生成および伝播する、Pythonベースの分散システム可観測性ユーティリティ。
+*
+
 ---
 
 ##  Contact & Professional Profiles
