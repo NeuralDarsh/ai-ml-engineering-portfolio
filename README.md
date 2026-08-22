@@ -272,7 +272,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Dead Letter Queue Manager :
 * *Project Name:* dead_letter_queue_manager.py : A distributed systems utility in Python that tracks message processing delivery attempts, isolates poison payloads, and routes failed jobs to a Dead Letter Queue (DLQ).
 * *プロジェクト名:* dead_letter_queue_manager.py : メッセージ処理の試行回数を追跡し、有害なペイロードを隔離して失敗したジョブをデッドレターキュー（DLQ）にルーティングする、Pythonベースの分散システム用ユーティリティ。
-*
+
+### Automated Idempotency Key Manager :
+* **Project Name:** `idempotency_key_manager.py` : An API reliability utility in Python that tracks idempotency keys to intercept duplicate requests and replay cached responses, preventing double execution.
+* **プロジェクト名:** `idempotency_key_manager.py` : 重複実行を防ぐために、冪等性キーを追跡して重複リクエストを遮断しキャッシュされたレスポンスを再送する、PythonベースのAPI信頼性向上ユーティリティ。
 *
 
 ---
