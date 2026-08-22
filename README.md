@@ -260,6 +260,21 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated SemVer Compatibility Checker :
 * **Project Name:** `semver_compatibility_checker.py` : A DevOps and software architecture utility in Python that parses semantic versioning strings to audit API compatibility and flag breaking changes.
 * **プロジェクト名:** `semver_compatibility_checker.py` : APIの互換性を監査し破壊的変更を検出するためにセマンティックバージョニング文字列を解析する、PythonベースのDevOpsおよびソフトウェアアーキテクチャ用ユーティリティ。
+
+### Automated Payload Checksum Validator :
+* *Project Name:* `payload_checksum_validator.py` : A security and distributed systems utility in Python that generates deterministic SHA-256 payload checksums to verify message integrity across microservices.
+* *プロジェクト名:* `payload_checksum_validator.py` : マイクロサービス間でのメッセージの整合性を検証するために、決定論的なSHA-256ペイロードチェックサムを生成する、Pythonベースのセキュリティおよび分散システム用ユーティリティ。
+
+### Automated Request Correlation Tracker :
+* *Project Name:* request_correlation_tracker.py : A distributed systems observability utility in Python that generates and propagates Correlation IDs (X-Correlation-ID) across microservices to enable end-to-end request tracing.
+* *プロジェクト名:* request_correlation_tracker.py : エンドツーエンドのリクエスト追跡を可能にするために、マイクロサービス間で相関ID（X-Correlation-ID）を生成および伝播する、Pythonベースの分散システム可観測性ユーティリティ。
+
+### Automated Dead Letter Queue Manager :
+* *Project Name:* dead_letter_queue_manager.py : A distributed systems utility in Python that tracks message processing delivery attempts, isolates poison payloads, and routes failed jobs to a Dead Letter Queue (DLQ).
+* *プロジェクト名:* dead_letter_queue_manager.py : メッセージ処理の試行回数を追跡し、有害なペイロードを隔離して失敗したジョブをデッドレターキュー（DLQ）にルーティングする、Pythonベースの分散システム用ユーティリティ。
+*
+*
+
 ---
 
 ##  Contact & Professional Profiles
