@@ -276,6 +276,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Idempotency Key Manager :
 * **Project Name:** `idempotency_key_manager.py` : An API reliability utility in Python that tracks idempotency keys to intercept duplicate requests and replay cached responses, preventing double execution.
 * **プロジェクト名:** `idempotency_key_manager.py` : 重複実行を防ぐために、冪等性キーを追跡して重複リクエストを遮断しキャッシュされたレスポンスを再送する、PythonベースのAPI信頼性向上ユーティリティ。
+
+### Automated Token Bucket Rate Limiter :
+* **Project Name:** `token_bucket_limiter.py` : An API traffic shaping utility in Python implementing the Token Bucket algorithm to handle burst traffic and enforce steady-state request replenishment rates.
+* **プロジェクト名:** `token_bucket_limiter.py` : バーストトラフィックを処理し、定常状態のリクエスト補充率を強制するためにトークンバケットアルゴリズムを実装する、PythonベースのAPIトラフィック制御ユーティリティ。
 *
 
 ---
