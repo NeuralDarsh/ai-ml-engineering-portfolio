@@ -280,6 +280,14 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Token Bucket Rate Limiter :
 * **Project Name:** `token_bucket_limiter.py` : An API traffic shaping utility in Python implementing the Token Bucket algorithm to handle burst traffic and enforce steady-state request replenishment rates.
 * **プロジェクト名:** `token_bucket_limiter.py` : バーストトラフィックを処理し、定常状態のリクエスト補充率を強制するためにトークンバケットアルゴリズムを実装する、PythonベースのAPIトラフィック制御ユーティリティ。
+
+### Automated Feature Flag Evaluator :
+* **Project Name:** `feature_flag_evaluator.py` : A DevOps and release management utility in Python that evaluates feature flags using allowlists, account tiers, and deterministic percentage hash rollouts.
+* **プロジェクト名:** `feature_flag_evaluator.py` : 許可リスト、アカウント層、および決定論的なパーセンテージハッシュロールアウトを使用してフィーチャーフラグを評価する、PythonベースのDevOpsおよびリリース管理ユーティリティ。
+
+### Automated Event Bus Dispatcher :
+* **Project Name:** `event_bus_dispatcher.py` : A distributed systems architecture utility in Python implementing an in-process Publish-Subscribe (Pub/Sub) event bus with wildcard topic matching.
+* **プロジェクト名:** `event_bus_dispatcher.py` : ワイルドカードトピックマッチングを備えたプロセス内パブリッシュ/サブスクライブ（Pub/Sub）イベントバスを実装する、Pythonベースの分散システムアーキテクチャ用ユーティリティ。
 *
 
 ---
