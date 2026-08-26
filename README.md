@@ -288,6 +288,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Event Bus Dispatcher :
 * **Project Name:** `event_bus_dispatcher.py` : A distributed systems architecture utility in Python implementing an in-process Publish-Subscribe (Pub/Sub) event bus with wildcard topic matching.
 * **プロジェクト名:** `event_bus_dispatcher.py` : ワイルドカードトピックマッチングを備えたプロセス内パブリッシュ/サブスクライブ（Pub/Sub）イベントバスを実装する、Pythonベースの分散システムアーキテクチャ用ユーティリティ。
+
+### Automated Keyset Cursor Pagination Engine :
+* **Project Name:** `cursor_pagination_engine.py` : A database and API pagination utility in Python that implements keyset cursor pagination with Base64 opaque token encoding to optimize deep page queries.
+* **プロジェクト名:** `cursor_pagination_engine.py` : 深いページのクエリを最適化するために、Base64の不透明トークンエンコーディングを使用したキーセットカーソルページネーションを実装する、PythonベースのデータベースおよびAPI用ユーティリティ。
 *
 
 ---
