@@ -292,6 +292,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Keyset Cursor Pagination Engine :
 * **Project Name:** `cursor_pagination_engine.py` : A database and API pagination utility in Python that implements keyset cursor pagination with Base64 opaque token encoding to optimize deep page queries.
 * **プロジェクト名:** `cursor_pagination_engine.py` : 深いページのクエリを最適化するために、Base64の不透明トークンエンコーディングを使用したキーセットカーソルページネーションを実装する、PythonベースのデータベースおよびAPI用ユーティリティ。
+
+### Automated Load Balancer Simulator :
+* **Project Name:** `load_balancer_simulator.py` : A cloud infrastructure utility in Python simulating Weighted Round-Robin and Least-Connections routing algorithms to distribute traffic across server pools.
+* **プロジェクト名:** `load_balancer_simulator.py` : サーバプール全体にトラフィックを分散するために、重み付きラウンドロビンおよび最小接続ルーティングアルゴリズムをシミュレートする、Pythonベースのクラウドインフラ用ユーティリティ。
 *
 
 ---
