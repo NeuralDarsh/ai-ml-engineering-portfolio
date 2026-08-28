@@ -296,7 +296,14 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Load Balancer Simulator :
 * **Project Name:** `load_balancer_simulator.py` : A cloud infrastructure utility in Python simulating Weighted Round-Robin and Least-Connections routing algorithms to distribute traffic across server pools.
 * **プロジェクト名:** `load_balancer_simulator.py` : サーバプール全体にトラフィックを分散するために、重み付きラウンドロビンおよび最小接続ルーティングアルゴリズムをシミュレートする、Pythonベースのクラウドインフラ用ユーティリティ。
-*
+
+### Automated WAL Crash Recovery Engine :
+* **Project Name:** `wal_crash_recovery_engine.py` : A database internals utility in Python implementing Write-Ahead Logging (WAL), transaction checkpointing, and deterministic crash recovery replay.
+* **プロジェクト名:** `wal_crash_recovery_engine.py` : ログ先行書き込み（WAL）、トランザクションチェックポイント、および決定論的なクラッシュ復旧リプレイを実装する、Pythonベースのデータベース内部構造用ユーティリティ。
+
+### Automated Two-Phase Commit Coordinator :
+* **Project Name:** `two_phase_commit_coordinator.py` : A distributed systems consensus utility in Python implementing the Two-Phase Commit (2PC) protocol to coordinate atomic transactions and rollbacks across nodes.
+* **プロジェクト名:** `two_phase_commit_coordinator.py` : ノード間でのアトミックトランザクションとロールバックを調整するために2相コミット（2PC）プロトコルを実装する、Pythonベースの分散システムコンセンサス用ユーティリティ。
 
 ---
 
