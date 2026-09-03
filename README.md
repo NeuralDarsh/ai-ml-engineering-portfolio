@@ -317,6 +317,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 * **Project Name:** `distributed_quorum_engine.py` : A distributed systems consensus utility in Python implementing Dynamo-style read/write quorums (R + W > N) with automated read-repair conflict resolution.
 * **プロジェクト名:** `distributed_quorum_engine.py` : 自動リードリペア競合解決を備えたDynamoスタイルの読み取り/書き込みクォーラム（R + W > N）を実装する、Pythonベースの分散システムコンセンサス用ユーティリティ。
 
+### Automated Log Compaction Engine :
+* **Project Name:** `log_compaction_engine.py` : A distributed storage utility in Python implementing Kafka-style key-based log compaction, historical record deduplication, and tombstone purging.
+* **プロジェクト名:** `log_compaction_engine.py` : Kafkaスタイルのキーベースのログコンパクション、履歴レコードの重複排除、および削除ツームストーンのパージを実装する、Pythonベースの分散ストレージ用ユーティリティ。
+
 ---
 
 ##  Contact & Professional Profiles
