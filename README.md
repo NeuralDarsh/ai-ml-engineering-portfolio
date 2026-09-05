@@ -325,6 +325,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 * **Project Name:** `gossip_protocol_cluster.py` : A distributed systems networking utility in Python implementing decentralized gossip state synchronization, monotonic heartbeats, and cluster node failure detection.
 * **プロジェクト名:** `gossip_protocol_cluster.py` : 分散型ゴシップ状態同期、単調増加ハートビート、およびクラスタノード障害検出を実装する、Pythonベースの分散システムネットワーキング用ユーティリティ。
 
+### Automated Read-Write Lock Manager :
+* **Project Name:** `read_write_lock_manager.py` : A systems concurrency utility in Python implementing a thread-safe Read-Write Lock (RWLock) with writer-preference priority scheduling to prevent starvation.
+* **プロジェクト名:** `read_write_lock_manager.py` : スレッドの飢餓を防ぐために書き込み優先スケジューリングを備えたスレッドセーフな読取・書込ロック（RWLock）を実装する、Pythonベースのシステム並行性用ユーティリティ。
+
 ---
 
 ##  Contact & Professional Profiles
