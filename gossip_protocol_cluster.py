@@ -92,7 +92,7 @@ if __name__ == "__main__":
     ]
     simulator = GossipClusterSimulator(cluster_nodes)
 
-    # Initial rounds of healthy gossip
+    # Initial rounds of healthy gossipopp
     print("Simulating 3 normal gossip synchronization rounds:")
     for r in range(1, 4):
         print(f"--- Round {r} ---")
