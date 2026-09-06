@@ -329,6 +329,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 * **Project Name:** `read_write_lock_manager.py` : A systems concurrency utility in Python implementing a thread-safe Read-Write Lock (RWLock) with writer-preference priority scheduling to prevent starvation.
 * **プロジェクト名:** `read_write_lock_manager.py` : スレッドの飢餓を防ぐために書き込み優先スケジューリングを備えたスレッドセーフな読取・書込ロック（RWLock）を実装する、Pythonベースのシステム並行性用ユーティリティ。
 
+### Automated Merkle Tree Integrity Engine :
+* **Project Name:** `merkle_tree_engine.py` : A distributed storage utility in Python implementing binary Merkle Trees for hierarchical data integrity auditing and O(log N) data discrepancy localization.
+* **プロジェクト名:** `merkle_tree_engine.py` : 階層的なデータ整合性監査とO(log N)での不整合特定のためにバイナリマークルツリーを実装する、Pythonベースの分散ストレージ用ユーティリティ。
+
 ---
 
 ##  Contact & Professional Profiles
