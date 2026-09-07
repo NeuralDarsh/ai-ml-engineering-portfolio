@@ -336,6 +336,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Circuit Breaker Sentinel :
 * **Project Name:** `circuit_breaker_sentinel.py` : A distributed systems resilience utility in Python implementing the Circuit Breaker pattern with CLOSED, OPEN, and HALF_OPEN state recovery.
 * **プロジェクト名:** `circuit_breaker_sentinel.py` : CLOSED、OPEN、およびHALF_OPENの状態復旧を備えたサーキットブレーカーパターンを実装する、Pythonベースの分散システム耐障害性ユーティリティ。
+
+### Automated Counting Bloom Filter Engine :
+* **Project Name:** `counting_bloom_filter.py` : A distributed systems storage utility in Python implementing a Counting Bloom Filter with counter bucket operations, safe deletions, and false positive metrics.
+* **プロジェクト名:** `counting_bloom_filter.py` : カウンタバケット操作、安全な削除、および偽陽性確率評価を備えたカウンティングブルームフィルタを実装する、Pythonベースの分散ストレージ用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
