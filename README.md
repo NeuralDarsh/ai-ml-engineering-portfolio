@@ -333,6 +333,9 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 * **Project Name:** `merkle_tree_engine.py` : A distributed storage utility in Python implementing binary Merkle Trees for hierarchical data integrity auditing and O(log N) data discrepancy localization.
 * **プロジェクト名:** `merkle_tree_engine.py` : 階層的なデータ整合性監査とO(log N)での不整合特定のためにバイナリマークルツリーを実装する、Pythonベースの分散ストレージ用ユーティリティ。
 
+### Automated Circuit Breaker Sentinel :
+* **Project Name:** `circuit_breaker_sentinel.py` : A distributed systems resilience utility in Python implementing the Circuit Breaker pattern with CLOSED, OPEN, and HALF_OPEN state recovery.
+* **プロジェクト名:** `circuit_breaker_sentinel.py` : CLOSED、OPEN、およびHALF_OPENの状態復旧を備えたサーキットブレーカーパターンを実装する、Pythonベースの分散システム耐障害性ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
