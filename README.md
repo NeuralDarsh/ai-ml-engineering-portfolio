@@ -340,6 +340,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Counting Bloom Filter Engine :
 * **Project Name:** `counting_bloom_filter.py` : A distributed systems storage utility in Python implementing a Counting Bloom Filter with counter bucket operations, safe deletions, and false positive metrics.
 * **プロジェクト名:** `counting_bloom_filter.py` : カウンタバケット操作、安全な削除、および偽陽性確率評価を備えたカウンティングブルームフィルタを実装する、Pythonベースの分散ストレージ用ユーティリティ。
+
+### Automated Transactional Outbox Relay Engine :
+* **Project Name:** `transactional_outbox_relay.py` : A distributed systems data consistency utility in Python implementing the Transactional Outbox pattern and polling relay to eliminate dual-write race conditions.
+* **プロジェクト名:** `transactional_outbox_relay.py` : 二重書き込みの競合状態を排除するためにトランザクショナルアウトボックスパターンとポーリングリレーを実装する、Pythonベースの分散システムデータ整合性ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
