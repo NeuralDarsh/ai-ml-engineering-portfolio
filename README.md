@@ -344,6 +344,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Transactional Outbox Relay Engine :
 * **Project Name:** `transactional_outbox_relay.py` : A distributed systems data consistency utility in Python implementing the Transactional Outbox pattern and polling relay to eliminate dual-write race conditions.
 * **プロジェクト名:** `transactional_outbox_relay.py` : 二重書き込みの競合状態を排除するためにトランザクショナルアウトボックスパターンとポーリングリレーを実装する、Pythonベースの分散システムデータ整合性ユーティリティ。
+
+### Automated LSM-Tree Storage Engine :
+* **Project Name:** `lsm_tree_storage_engine.py` : A database internals storage utility in Python implementing an LSM-Tree with in-memory MemTables, sequential SSTable flushing, and sparse indexed point lookups.
+* **プロジェクト名:** `lsm_tree_storage_engine.py` : メモリ内のMemTable、順次SSTableフラッシュ、およびスパースインデックスによるポイント検索を備えたLSMツリーを実装する、Pythonベースのデータベース内部ストレージ用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
