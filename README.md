@@ -348,6 +348,14 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated LSM-Tree Storage Engine :
 * **Project Name:** `lsm_tree_storage_engine.py` : A database internals storage utility in Python implementing an LSM-Tree with in-memory MemTables, sequential SSTable flushing, and sparse indexed point lookups.
 * **プロジェクト名:** `lsm_tree_storage_engine.py` : メモリ内のMemTable、順次SSTableフラッシュ、およびスパースインデックスによるポイント検索を備えたLSMツリーを実装する、Pythonベースのデータベース内部ストレージ用ユーティリティ。
+
+### Automated Leader Election Lease Coordinator :
+* **Project Name:** `leader_election_lease.py` : A distributed consensus utility in Python simulating leader election with TTL-based lease management, heartbeat renewal, and automatic failover.
+* **プロジェクト名:** `leader_election_lease.py` : TTLベースのリース管理、ハートビート更新、および自動フェイルオーバーを備えたリーダー選出をシミュレートする、Pythonベースの分散コンセンサス用ユーティリティ。
+
+### Automated Dead Letter Queue Engine :
+* **Project Name:** `dead_letter_queue_retry.py` : A message queue and microservices reliability utility in Python implementing exponential backoff retries and automated Dead Letter Queue (DLQ) poison-pill isolation.
+* **プロジェクト名:** `dead_letter_queue_retry.py` : 指数バックオフ再試行と自動デッドレターキュー（DLQ）ポイズンピル隔離を実装する、Pythonベースのメッセージキューおよびマイクロサービス信頼性ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
