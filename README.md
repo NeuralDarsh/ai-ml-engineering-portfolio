@@ -356,6 +356,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Dead Letter Queue Engine :
 * **Project Name:** `dead_letter_queue_retry.py` : A message queue and microservices reliability utility in Python implementing exponential backoff retries and automated Dead Letter Queue (DLQ) poison-pill isolation.
 * **プロジェクト名:** `dead_letter_queue_retry.py` : 指数バックオフ再試行と自動デッドレターキュー（DLQ）ポイズンピル隔離を実装する、Pythonベースのメッセージキューおよびマイクロサービス信頼性ユーティリティ。
+
+### Automated Distributed Tracing Context Engine :
+* **Project Name:** `distributed_tracing_context.py` : A distributed systems observability utility in Python implementing W3C Traceparent header parsing, context propagation across microservices, and hierarchical span telemetry collection.
+* **プロジェクト名:** `distributed_tracing_context.py` : マイクロサービス間でのW3C Traceparentヘッダーの解析、コンテキストの伝播、および階層スパンテレメトリ収集を実装する、Pythonベースの分散システム可観測性用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
