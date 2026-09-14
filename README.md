@@ -360,6 +360,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Distributed Tracing Context Engine :
 * **Project Name:** `distributed_tracing_context.py` : A distributed systems observability utility in Python implementing W3C Traceparent header parsing, context propagation across microservices, and hierarchical span telemetry collection.
 * **プロジェクト名:** `distributed_tracing_context.py` : マイクロサービス間でのW3C Traceparentヘッダーの解析、コンテキストの伝播、および階層スパンテレメトリ収集を実装する、Pythonベースの分散システム可観測性用ユーティリティ。
+
+### Automated MVCC Snapshot Isolation Simulator :
+* **Project Name:** `mvcc_snapshot_isolation.py` : A database internals concurrency utility in Python implementing Multi-Version Concurrency Control (MVCC) with non-blocking snapshot reads and write-write conflict detection.
+* **プロジェクト名:** `mvcc_snapshot_isolation.py` : 非ブロッキングスナップショット読み取りおよび書き込み競合検出を備えたマルチバージョン並行性制御（MVCC）を実装する、Pythonベースのデータベース内部並行性用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
