@@ -364,6 +364,14 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated MVCC Snapshot Isolation Simulator :
 * **Project Name:** `mvcc_snapshot_isolation.py` : A database internals concurrency utility in Python implementing Multi-Version Concurrency Control (MVCC) with non-blocking snapshot reads and write-write conflict detection.
 * **プロジェクト名:** `mvcc_snapshot_isolation.py` : 非ブロッキングスナップショット読み取りおよび書き込み競合検出を備えたマルチバージョン並行性制御（MVCC）を実装する、Pythonベースのデータベース内部並行性用ユーティリティ。
+
+### Automated Vector Clock Causality Engine :
+* **Project Name:** `vector_clock_causality.py` : A distributed systems consensus utility in Python implementing logical vector clocks to capture causal event ordering, perform vector merges, and detect concurrent data conflicts.
+* **プロジェクト名:** `vector_clock_causality.py` : 因果関係のあるイベント順序の捕捉、ベクトルのマージ、および並行データ競合の検出を行う論理ベクトルクロックを実装する、Pythonベースの分散システムコンセンサス用ユーティリティ。
+
+### Automated Anti-Entropy Merkle Sync Engine :
+* **Project Name:** `anti_entropy_merkle_sync.py` : A distributed systems replication utility in Python implementing hierarchical partitioned Merkle tree exchanges for targeted anti-entropy reconciliation and background data repair.
+* **プロジェクト名:** `anti_entropy_merkle_sync.py` : 対象を絞った反エントロピー調停およびバックグラウンドデータ修復のために階層的パーティション化マークルツリー交換を実装する、Pythonベースの分散システムレプリケーション用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
