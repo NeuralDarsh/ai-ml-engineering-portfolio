@@ -372,6 +372,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Anti-Entropy Merkle Sync Engine :
 * **Project Name:** `anti_entropy_merkle_sync.py` : A distributed systems replication utility in Python implementing hierarchical partitioned Merkle tree exchanges for targeted anti-entropy reconciliation and background data repair.
 * **プロジェクト名:** `anti_entropy_merkle_sync.py` : 対象を絞った反エントロピー調停およびバックグラウンドデータ修復のために階層的パーティション化マークルツリー交換を実装する、Pythonベースの分散システムレプリケーション用ユーティリティ。
+
+### Automated Hinted Handoff Engine :
+* **Project Name:** `hinted_handoff_engine.py` : A distributed systems storage utility in Python implementing the Hinted Handoff pattern to buffer unacknowledged writes during replica downtime and replay them upon node recovery.
+* **プロジェクト名:** `hinted_handoff_engine.py` : レプリカのダウンタイム中に未確認の書き込みをバッファリングし、ノードの復旧時にそれらをリプレイするヒンテッドハンドオフパターンを実装する、Pythonベースの分散システムストレージ用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
