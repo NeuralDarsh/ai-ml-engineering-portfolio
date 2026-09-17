@@ -376,6 +376,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Hinted Handoff Engine :
 * **Project Name:** `hinted_handoff_engine.py` : A distributed systems storage utility in Python implementing the Hinted Handoff pattern to buffer unacknowledged writes during replica downtime and replay them upon node recovery.
 * **プロジェクト名:** `hinted_handoff_engine.py` : レプリカのダウンタイム中に未確認の書き込みをバッファリングし、ノードの復旧時にそれらをリプレイするヒンテッドハンドオフパターンを実装する、Pythonベースの分散システムストレージ用ユーティリティ。
+
+### Automated Partition Consumer Rebalance Engine :
+* **Project Name:** `partition_consumer_rebalance.py` : A distributed messaging utility in Python implementing consumer group coordination, partition revocation handshakes, and deterministic range rebalancing.
+* **プロジェクト名:** `partition_consumer_rebalance.py` : コンシューマグループの調整、パーティション取り消しハンドシェイク、および決定論的な範囲リバランシングを実装する、Pythonベースの分散メッセージング用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
