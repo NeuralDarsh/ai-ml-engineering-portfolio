@@ -380,6 +380,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Partition Consumer Rebalance Engine :
 * **Project Name:** `partition_consumer_rebalance.py` : A distributed messaging utility in Python implementing consumer group coordination, partition revocation handshakes, and deterministic range rebalancing.
 * **プロジェクト名:** `partition_consumer_rebalance.py` : コンシューマグループの調整、パーティション取り消しハンドシェイク、および決定論的な範囲リバランシングを実装する、Pythonベースの分散メッセージング用ユーティリティ。
+
+### Automated Tiered Storage Compaction Engine :
+* **Project Name:** `tiered_storage_compaction.py` : A cloud infrastructure storage utility in Python implementing small-block hot-tier compaction and automated time-based lifecycle migration across storage tiers.
+* **プロジェクト名:** `tiered_storage_compaction.py` : 小さなブロックのホット層コンパクションとストレージ層間での時間ベースの自動ライフサイクル移行を実装する、Pythonベースのクラウドインフラストレージ用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
