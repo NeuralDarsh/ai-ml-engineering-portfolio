@@ -384,6 +384,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Tiered Storage Compaction Engine :
 * **Project Name:** `tiered_storage_compaction.py` : A cloud infrastructure storage utility in Python implementing small-block hot-tier compaction and automated time-based lifecycle migration across storage tiers.
 * **プロジェクト名:** `tiered_storage_compaction.py` : 小さなブロックのホット層コンパクションとストレージ層間での時間ベースの自動ライフサイクル移行を実装する、Pythonベースのクラウドインフラストレージ用ユーティリティ。
+
+### Automated WAL Segment Archival & PITR Engine :
+* **Project Name:** `wal_pitr_engine.py` : A database reliability utility in Python implementing Write-Ahead Log (WAL) segment rotation, consistent base snapshots, and point-in-time recovery (PITR) mutation replaying.
+* **プロジェクト名:** `wal_pitr_engine.py` : Write-Ahead Log（WAL）セグメントのローテーション、整合性のあるベーススナップショット、およびポイントインタイムリカバリ（PITR）ミューテーションリプレイを実装する、Pythonベースのデータベース信頼性用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
