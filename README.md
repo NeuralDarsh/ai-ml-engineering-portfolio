@@ -388,6 +388,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated WAL Segment Archival & PITR Engine :
 * **Project Name:** `wal_pitr_engine.py` : A database reliability utility in Python implementing Write-Ahead Log (WAL) segment rotation, consistent base snapshots, and point-in-time recovery (PITR) mutation replaying.
 * **プロジェクト名:** `wal_pitr_engine.py` : Write-Ahead Log（WAL）セグメントのローテーション、整合性のあるベーススナップショット、およびポイントインタイムリカバリ（PITR）ミューテーションリプレイを実装する、Pythonベースのデータベース信頼性用ユーティリティ。
+
+### Automated Adaptive Concurrency Limiter :
+* **Project Name:** `adaptive_concurrency_limiter.py` : A cloud gateway reliability utility in Python implementing TCP-style AIMD adaptive concurrency limiting and automated overload load shedding based on observed RTT latency.
+* **プロジェクト名:** `adaptive_concurrency_limiter.py` : 観測されたRTTレイテンシに基づいてTCPスタイルのAIMD適応型並行性制限と自動過負荷ロードシェディングを実装する、Pythonベースのクラウドゲートウェイ信頼性用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
