@@ -392,6 +392,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Adaptive Concurrency Limiter :
 * **Project Name:** `adaptive_concurrency_limiter.py` : A cloud gateway reliability utility in Python implementing TCP-style AIMD adaptive concurrency limiting and automated overload load shedding based on observed RTT latency.
 * **プロジェクト名:** `adaptive_concurrency_limiter.py` : 観測されたRTTレイテンシに基づいてTCPスタイルのAIMD適応型並行性制限と自動過負荷ロードシェディングを実装する、Pythonベースのクラウドゲートウェイ信頼性用ユーティリティ。
+
+### Automated Canary Traffic Shifter & Connection Drainer :
+* **Project Name:** `canary_traffic_shifter.py` : A cloud networking and gateway reliability utility in Python implementing dynamic weighted canary traffic shifting, error-threshold rollbacks, and graceful connection draining.
+* **プロジェクト名:** `canary_traffic_shifter.py` : 動的重み付けカナリアトラフィック移行、エラー閾値ロールバック、およびグレースフル接続ドレインを実装する、Pythonベースのクラウドネットワーキングおよびゲートウェイ信頼性用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
