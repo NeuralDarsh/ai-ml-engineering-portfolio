@@ -396,6 +396,14 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Canary Traffic Shifter & Connection Drainer :
 * **Project Name:** `canary_traffic_shifter.py` : A cloud networking and gateway reliability utility in Python implementing dynamic weighted canary traffic shifting, error-threshold rollbacks, and graceful connection draining.
 * **プロジェクト名:** `canary_traffic_shifter.py` : 動的重み付けカナリアトラフィック移行、エラー閾値ロールバック、およびグレースフル接続ドレインを実装する、Pythonベースのクラウドネットワーキングおよびゲートウェイ信頼性用ユーティリティ。
+
+### Automated CRDT OR-Set Engine :
+* **Project Name:** `crdt_or_set_engine.py` : A distributed systems consensus utility in Python implementing a state-based Observed-Removed Set (OR-Set) CRDT for conflict-free multi-master replica synchronization.
+* **プロジェクト名:** `crdt_or_set_engine.py` : 競合のないマルチマスターレプリカ同期のために状態ベースのObserved-Removed Set（OR-Set）CRDTを実装する、Pythonベースの分散システムコンセンサス用ユーティリティ。
+
+### Automated Group Commit Flusher Engine :
+* **Project Name:** `group_commit_flusher.py` : A database storage internals utility in Python implementing the Group Commit pattern to batch concurrent transaction fsync operations and maximize disk I/O throughput.
+* **プロジェクト名:** `group_commit_flusher.py` : 並行トランザクションのfsync操作を一括バッチ処理し、ディスクI/Oスループットを最大化するグループコミットパターンを実装する、Pythonベースのデータベースストレージ内部用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
