@@ -404,6 +404,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Group Commit Flusher Engine :
 * **Project Name:** `group_commit_flusher.py` : A database storage internals utility in Python implementing the Group Commit pattern to batch concurrent transaction fsync operations and maximize disk I/O throughput.
 * **プロジェクト名:** `group_commit_flusher.py` : 並行トランザクションのfsync操作を一括バッチ処理し、ディスクI/Oスループットを最大化するグループコミットパターンを実装する、Pythonベースのデータベースストレージ内部用ユーティリティ。
+
+### Automated Two-Phase Commit Engine :
+* **Project Name:** `two_phase_commit_engine.py` : A distributed transactions consensus utility in Python implementing the Two-Phase Commit (2PC) protocol with coordinator-cohort voting, atomic decision execution, and rollback recovery.
+* **プロジェクト名:** `two_phase_commit_engine.py` : コーディネーター・コホート投票、原子性決定実行、およびロールバック復旧を備えた2相コミット（2PC）プロトコルを実装する、Pythonベースの分散トランザクションコンセンサス用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
