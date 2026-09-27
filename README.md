@@ -408,6 +408,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Two-Phase Commit Engine :
 * **Project Name:** `two_phase_commit_engine.py` : A distributed transactions consensus utility in Python implementing the Two-Phase Commit (2PC) protocol with coordinator-cohort voting, atomic decision execution, and rollback recovery.
 * **プロジェクト名:** `two_phase_commit_engine.py` : コーディネーター・コホート投票、原子性決定実行、およびロールバック復旧を備えた2相コミット（2PC）プロトコルを実装する、Pythonベースの分散トランザクションコンセンサス用ユーティリティ。
+
+### Automated Raft Consensus Minimal Engine :
+* **Project Name:** `raft_consensus_engine.py` : A distributed systems consensus utility in Python implementing the Raft protocol core with term monotonic clocks, RequestVote majority elections, and AppendEntries heartbeats.
+* **プロジェクト名:** `raft_consensus_engine.py` : 単調増加するタームクロック、RequestVoteによる過半数選出、およびAppendEntriesハートビートを備えたRaftプロトコルのコアを実装する、Pythonベースの分散システムコンセンサス用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
