@@ -412,6 +412,10 @@ The implementations focus on bridging core concepts across **Artificial Intellig
 ### Automated Raft Consensus Minimal Engine :
 * **Project Name:** `raft_consensus_engine.py` : A distributed systems consensus utility in Python implementing the Raft protocol core with term monotonic clocks, RequestVote majority elections, and AppendEntries heartbeats.
 * **プロジェクト名:** `raft_consensus_engine.py` : 単調増加するタームクロック、RequestVoteによる過半数選出、およびAppendEntriesハートビートを備えたRaftプロトコルのコアを実装する、Pythonベースの分散システムコンセンサス用ユーティリティ。
+
+### Automated Distributed Saga Orchestrator :
+* **Project Name:** `distributed_saga_orchestrator.py` : A distributed systems microservice reliability utility in Python implementing an Orchestrator-driven Saga pattern with forward execution and backward compensating rollbacks.
+* **プロジェクト名:** `distributed_saga_orchestrator.py` : 順方向実行および逆方向補償ロールバックを備えたオーケストレーター主導のSagaパターンを実装する、Pythonベースの分散マイクロサービス信頼性用ユーティリティ。
 ---
 
 ##  Contact & Professional Profiles
